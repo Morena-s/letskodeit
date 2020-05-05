@@ -1,0 +1,5 @@
+09:39:22.793 INFO  base.TestListeners -onStart -> Test Tag Name:Application Test
+09:39:22.809 INFO  base.TestListeners -There methods will be executed in this <test> tag
+09:39:22.809 INFO  base.TestListeners -verifySerachAllCourses
+09:39:22.809 INFO  base.TestListeners -testInvalidLogin
+09:39:22.809 INFO  base.TestListeners -testLogin

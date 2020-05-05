@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test Suite">
+    <listeners>
+        <listener class-name="com.letskodeit.base.TestListeners"/>
+    </listeners>
+    <test name="Application Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="com.letskodeit.testclasses.LoginTests"></class>
+            <class name="com.letskodeit.testclasses.AllCoursesTest"></class>
+
+        </classes>
+    </test>
+</suite>

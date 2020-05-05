@@ -1,0 +1,5 @@
+15:52:26.958 TRACE overview.LoggingDemo -Trace message printed
+15:52:26.963 DEBUG overview.LoggingDemo -Debug message printed
+15:52:26.963 INFO  overview.LoggingDemo -Info message printed
+15:52:26.963 ERROR overview.LoggingDemo -Error message printed
+15:52:26.963 FATAL overview.LoggingDemo -Fatal message printed

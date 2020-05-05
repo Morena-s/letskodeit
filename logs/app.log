@@ -1,0 +1,2 @@
+09:55:42.258 INFO  base.TestListeners -onTestSuccess method name ->verifySerachAllCourses
+09:55:42.625 INFO  base.TestListeners -onFinish -> Test Tag Name:Application Test

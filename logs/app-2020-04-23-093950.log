@@ -1,0 +1,2 @@
+09:39:50.341 INFO  base.CheckPoint -test-01.Login verification->PASS
+09:39:50.343 INFO  base.TestListeners -onTestSuccess method name ->testLogin

@@ -1,0 +1,2 @@
+09:55:07.657 INFO  base.CheckPoint -test-01.Login verification->FAIL
+09:55:07.661 INFO  base.TestListeners -onTestFailure method name ->testLogin

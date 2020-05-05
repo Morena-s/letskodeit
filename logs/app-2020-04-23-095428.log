@@ -1,0 +1,8 @@
+09:54:28.501 INFO  utilities.ExtentManager -************Report Path *****************
+09:54:28.527 INFO  utilities.ExtentManager -/Users/sally/IdeaProjects/letskodeit//reports//AutomationReport_2020-04-23T09:54:28.483.html
+09:54:28.528 INFO  utilities.ExtentManager -************Report Path *****************
+09:54:28.927 INFO  base.TestListeners -onStart -> Test Tag Name:Application Test
+09:54:28.927 INFO  base.TestListeners -There methods will be executed in this <test> tag
+09:54:28.928 INFO  base.TestListeners -verifySerachAllCourses
+09:54:28.928 INFO  base.TestListeners -testInvalidLogin
+09:54:28.928 INFO  base.TestListeners -testLogin
